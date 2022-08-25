@@ -1,0 +1,3 @@
+[submodule "gekkio-kicad-libs"]
+	path = gekkio-kicad-libs
+	url = git@github.com:Gekkio/gekkio-kicad-libs.git
